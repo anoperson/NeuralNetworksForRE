@@ -6,6 +6,8 @@ Thien Huu Nguyen and Ralph Grishman, in Proceedings of NAACL Workshop on Vector 
 
 ----------------
 
+Much of this code is modified from: https://github.com/yoonkim/CNN_sentence
+
 There are two steps to run this code:
 
 * Preprocessing: using file ```dist_process_data.py```
