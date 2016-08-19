@@ -1,12 +1,8 @@
 """
-Sample code for
-Convolutional Neural Networks for Sentence Classification
-http://arxiv.org/pdf/1408.5882v2.pdf
+Convolutional Neural Network for Relation Extraction
 
 Much of the code is modified from
-- deeplearning.net (for ConvNet classes)
-- https://github.com/mdenil/dropout (for dropout)
-- https://groups.google.com/forum/#!topic/pylearn-dev/3QbKtCumAW4 (for Adadelta)
+- https://github.com/yoonkim/CNN_sentence
 """
 
 import numpy
