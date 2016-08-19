@@ -8,6 +8,8 @@ Thien Huu Nguyen and Ralph Grishman, in Proceedings of NAACL Workshop on Vector 
 
 Much of this code is modified from: https://github.com/yoonkim/CNN_sentence
 
+This code is written when i started my deep learning journey so it is not optimal :).
+
 There are two steps to run this code:
 
 * Preprocessing: using file ```dist_process_data.py```
